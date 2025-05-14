@@ -1,0 +1,10 @@
+-Prototype more tracks (white box)
+-final art for existing tracks
+-HUD
+-Frontend
+-Unlock/progression
+-design, more depth, pickups? stamina? Jumps?
+-more animals
+-new mini game designs
+
+-mini games: racing, Football, Herding, 
